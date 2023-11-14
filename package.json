@@ -1,0 +1,13 @@
+{
+  "name": "wc-node",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Simple version of [wc](https://en.wikipedia.org/wiki/Wc_(Unix)) written in nodejs",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
