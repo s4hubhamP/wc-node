@@ -36,3 +36,5 @@ Make sure you have Node.js installed on your machine.
 ```bash
 node main.js -w something.txt
 ```
+
+*Part of [Coding Challenges](https://codingchallenges.fyi/challenges/challenge-wc)*
